@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '123fe6c9-a1c6-4468-a9fb-918ae1beaf31'
-  PropagateID: '123fe6c9-a1c6-4468-a9fb-918ae1beaf31'
-  ReservedCode1: '156aabdf-0155-4dff-b21e-b08fb9dae23c'
-  ReservedCode2: '156aabdf-0155-4dff-b21e-b08fb9dae23c'
----
 
 # 拜访话术模板
 
