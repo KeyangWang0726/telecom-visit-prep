@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '65e12a96-a661-4967-9f1f-e2cbf10d0c8c'
-  PropagateID: '65e12a96-a661-4967-9f1f-e2cbf10d0c8c'
-  ReservedCode1: 'cbff2817-175e-4f28-b7d3-3bcd38199bdc'
-  ReservedCode2: 'cbff2817-175e-4f28-b7d3-3bcd38199bdc'
----
 
 # 中国电信全产品线知识库
 
