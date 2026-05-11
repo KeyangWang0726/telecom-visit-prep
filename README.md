@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'f86c3c4f-658b-4a80-a49d-225e83cb3a64'
-  PropagateID: 'f86c3c4f-658b-4a80-a49d-225e83cb3a64'
-  ReservedCode1: '4d2c8bee-01ce-461a-8b8a-8e9bab985c31'
-  ReservedCode2: '4d2c8bee-01ce-461a-8b8a-8e9bab985c31'
----
 
 # 电信走访通 (telecom-visit-prep)
 
